@@ -1,5 +1,7 @@
 <div align="center">
 
+![Antigravity Computer-Use Banner](assets/banner.jpg)
+
 # 🌌 Antigravity Computer-Use & Silent-Mode Bridge (`v0.3 Shield & Aura`)
 
 **Ultra-Fast Hybrid C# (.NET 8 LTS) + Python MCP Gateway for Google Antigravity**
@@ -111,7 +113,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Инструменты MCP / MCP Tools (12 Tools)
+## 🛠️ Инструменты MCP / MCP Tools (14 Tools)
 
 | Инструмент / Tool | Режим / Mode | Описание / Description |
 | :--- | :---: | :--- |
@@ -166,4 +168,4 @@ python tests/benchmark_speed.py
 
 ## 🇬🇧 Overview (EN)
 
-**Antigravity Bridge (`v0.2 Turbo`)** is an ultra-low-latency hybrid **C# (.NET 8 LTS) + Python** Model Context Protocol (MCP) gateway for **Google Antigravity** on Windows, outperforming traditional single-step Computer-Use agents by **8x–25x** via native GDI+ overlays, `LockBits` perceptual frame diffing, batched `SendInput` Unicode injection, bulk UIA `CacheRequest` tree inspection, and single-turn `execute_batch` pipelines.
+**Antigravity Bridge (`v0.3 Shield & Aura`)** is an ultra-low-latency hybrid **C# (.NET 8 LTS) + Python** Model Context Protocol (MCP) gateway for **Google Antigravity** on Windows, outperforming traditional single-step Computer-Use agents by **8x–25x** via native GDI+ overlays, `LockBits` perceptual frame diffing, batched `SendInput` Unicode injection, bulk UIA `CacheRequest` tree inspection, single-turn `execute_batch` pipelines, and a glowing Cyan↔Blue HUD with mandatory consent guards for safe desktop automation.
